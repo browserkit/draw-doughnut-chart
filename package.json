@@ -1,6 +1,6 @@
 {
   "name": "draw-doughnut-chart",
-  "version": "0.4",
+  "version": "0.5",
   "description": "Draw chart for Skyload extension",
   "main": "index.js",
   "scripts": {

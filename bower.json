@@ -10,5 +10,8 @@
     "chart"
   ],
   "homepage": "https://github.com/browserkit/draw-doughnut-chart",
-  "moduleType": []
+  "moduleType": [],
+  "devDependencies": {
+    "jquery": "^2.2.1"
+  }
 }
