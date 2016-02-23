@@ -1,0 +1,14 @@
+{
+  "name": "draw-doughnut-chart",
+  "description": "Draw chart for Skyload extension",
+  "main": "index.js",
+  "authors": [
+    "githiro"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "chart"
+  ],
+  "homepage": "https://github.com/browserkit/draw-doughnut-chart",
+  "moduleType": []
+}
